@@ -29,7 +29,7 @@
     background-color: #35393e;
     text-align: center;
     color: #b3bcc5;
-    font-size: 5px;
+    font-size: 12px;
     font-weight: bold;
     border-left-width: 2px;
     border-left-style: solid;
@@ -37,7 +37,7 @@
 
 .sidebar-left .sidebar-links a i.fa {
     display: block;
-    font-size: 5px;
+    font-size: 40px;
     margin-bottom: 5px;
 }
 
@@ -235,10 +235,10 @@ h3 {
 .icons {}
 
 #hello {
-    margin-top: 1em;
+    margin-top: 2.5em;
     margin-bottom: 0, 5em;
     font-family: play;
-    font-size: 3em;
+    font-size: 5em;
 }
 
 #skillset {
@@ -313,7 +313,6 @@ h3 {
 
 #UXDes {
     font-family: Play;
-    font-size: 3em;
 }
 
 #animationText {
