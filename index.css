@@ -29,7 +29,7 @@
     background-color: #35393e;
     text-align: center;
     color: #b3bcc5;
-    font-size: 12px;
+    font-size: 5px;
     font-weight: bold;
     border-left-width: 2px;
     border-left-style: solid;
@@ -37,7 +37,7 @@
 
 .sidebar-left .sidebar-links a i.fa {
     display: block;
-    font-size: 10px;
+    font-size: 5px;
     margin-bottom: 5px;
 }
 
