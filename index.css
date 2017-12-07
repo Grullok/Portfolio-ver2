@@ -44,7 +44,7 @@
 .sidebar-left .sidebar-links a.selected {
     background-color: #ffffff;
     color: #7c8085;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: bold;
     cursor: default;
 }
