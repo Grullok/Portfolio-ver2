@@ -3,6 +3,34 @@
     margin-left: 12%;
 
 }
+.coverBtn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 31px;
+  background: #8f8f8f;
+  border: solid #000000 2px;
+  text-decoration: none;
+    color: white;
+    margin-left: 2em;
+    margin-top: 2em;
+    padding: 15px 25px 15px 25px;
+}
+
+.coverBtn:hover {
+  background: #b8b9ba;
+  text-decoration: none;
+}
+
+.btnLeft {
+    margin-left: 15%;
+}
+
+.textDec {
+    text-decoration: none;
+}
 
 
 .sidebar-left {
